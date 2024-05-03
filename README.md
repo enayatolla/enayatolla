@@ -1,6 +1,6 @@
 ## Hi there 👋
 <br />
-I'm is enayatulla rezaie (enayatolla) <br />
+I'm enayatulla rezaie <br />
 <br />
 I'm a Python and JavaScript software developer 😄😄😄😄 <br />
 <br />
