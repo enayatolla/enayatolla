@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm is enayatulla rezaie (enayatolla)__
-I'm a Python and JavaScript software developer 😄😄😄😄__
-I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs__
+I'm is enayatulla rezaie (enayatolla) <br />
+I'm a Python and JavaScript software developer 😄😄😄😄 <br />
+I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs <br />
 
 
 
