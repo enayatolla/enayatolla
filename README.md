@@ -4,7 +4,8 @@ I'm enayatulla rezaie <br />
 <br />
 I'm a Python and JavaScript software developer 😄😄😄😄 <br />
 <br />
-I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs <br />
+I like to build things SQL databases, Python, JavaScript, modern backend APIs
+<br />
 
 
 
