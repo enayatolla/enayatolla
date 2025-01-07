@@ -4,7 +4,7 @@ I'm enayatulla rezaie <br />
 <br />
 I'm a Python and JavaScript software developer 😄😄😄😄 <br />
 <br />
-I like to build things SQL databases, Python, JavaScript, modern backend APIs
+I like to build things with SQL databases, Python, JavaScript, modern backend APIs
 <br />
 
 
