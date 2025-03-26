@@ -1,7 +1,8 @@
-<h2 align="left">Hi 👋! I'm enayatulla and a Python Developer</h2>
+<p style="font-size: 20px;">Hi 👋! I'm enayatulla and a Python Developer</h2>
 
-LinkedIn : https://linkedin.com/in/enayatulla
-Gitlab : https://gitlab.com/enayatulla
+
+<p>LinkedIn : https://linkedin.com/in/enayatulla</p>
+<p>Gitlab : https://gitlab.com/enayatulla</p>
 
 ## 💻 Tech Stack:
 
