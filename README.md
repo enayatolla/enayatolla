@@ -1,4 +1,4 @@
-<p style="font-size: 20px;">Hi 👋! I'm enayatulla and a Python Developer</h2>
+<p style="font-size: large;" >Hi 👋! I'm enayatulla and a Python Developer</p>
 
 
 <p>LinkedIn : https://linkedin.com/in/enayatulla</p>
