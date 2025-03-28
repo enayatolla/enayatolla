@@ -4,7 +4,7 @@
 <p>LinkedIn : https://linkedin.com/in/enayatulla</p>
 <p>Gitlab : https://gitlab.com/enayatulla</p>
 
-<a href='https://enayatulla-portfolio.netlify.app'>My Portfolio</a>
+<div>My Portfolio : <a href='https://enayatulla-portfolio.netlify.app'>Click Here</a></div>
 
 ## 💻 Tech Stack:
 
