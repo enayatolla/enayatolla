@@ -4,6 +4,8 @@
 <p>LinkedIn : https://linkedin.com/in/enayatulla</p>
 <p>Gitlab : https://gitlab.com/enayatulla</p>
 
+<a href='https://enayatulla-portfolio.netlify.app'>My Portfolio</a>
+
 ## 💻 Tech Stack:
 
 <div align="left">
